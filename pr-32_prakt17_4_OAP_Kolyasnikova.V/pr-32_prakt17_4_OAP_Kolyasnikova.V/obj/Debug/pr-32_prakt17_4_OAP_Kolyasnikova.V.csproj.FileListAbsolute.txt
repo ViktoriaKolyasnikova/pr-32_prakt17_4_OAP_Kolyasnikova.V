@@ -1,0 +1,8 @@
+D:\Distant\OAP\15.11.21-20.11.21\P.R_17_1-4\pr-32_prakt17_4_OAP_Kolyasnikova.V\pr-32_prakt17_4_OAP_Kolyasnikova.V\bin\Debug\pr-32_prakt17_4_OAP_Kolyasnikova.V.exe.config
+D:\Distant\OAP\15.11.21-20.11.21\P.R_17_1-4\pr-32_prakt17_4_OAP_Kolyasnikova.V\pr-32_prakt17_4_OAP_Kolyasnikova.V\bin\Debug\pr-32_prakt17_4_OAP_Kolyasnikova.V.exe
+D:\Distant\OAP\15.11.21-20.11.21\P.R_17_1-4\pr-32_prakt17_4_OAP_Kolyasnikova.V\pr-32_prakt17_4_OAP_Kolyasnikova.V\bin\Debug\pr-32_prakt17_4_OAP_Kolyasnikova.V.pdb
+D:\Distant\OAP\15.11.21-20.11.21\P.R_17_1-4\pr-32_prakt17_4_OAP_Kolyasnikova.V\pr-32_prakt17_4_OAP_Kolyasnikova.V\obj\Debug\pr-32_prakt17_4_OAP_Kolyasnikova.V.csproj.AssemblyReference.cache
+D:\Distant\OAP\15.11.21-20.11.21\P.R_17_1-4\pr-32_prakt17_4_OAP_Kolyasnikova.V\pr-32_prakt17_4_OAP_Kolyasnikova.V\obj\Debug\pr-32_prakt17_4_OAP_Kolyasnikova.V.csproj.SuggestedBindingRedirects.cache
+D:\Distant\OAP\15.11.21-20.11.21\P.R_17_1-4\pr-32_prakt17_4_OAP_Kolyasnikova.V\pr-32_prakt17_4_OAP_Kolyasnikova.V\obj\Debug\pr-32_prakt17_4_OAP_Kolyasnikova.V.csproj.CoreCompileInputs.cache
+D:\Distant\OAP\15.11.21-20.11.21\P.R_17_1-4\pr-32_prakt17_4_OAP_Kolyasnikova.V\pr-32_prakt17_4_OAP_Kolyasnikova.V\obj\Debug\pr-32_prakt17_4_OAP_Kolyasnikova.V.exe
+D:\Distant\OAP\15.11.21-20.11.21\P.R_17_1-4\pr-32_prakt17_4_OAP_Kolyasnikova.V\pr-32_prakt17_4_OAP_Kolyasnikova.V\obj\Debug\pr-32_prakt17_4_OAP_Kolyasnikova.V.pdb
